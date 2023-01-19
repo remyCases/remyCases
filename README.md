@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @remyCases
-- 🌱 I’m currently learning Rust, and bayesian statistics
+- 🌱 I’m currently learning Rust, Nim, and bayesian statistics
 
 
 
