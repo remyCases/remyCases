@@ -51,7 +51,7 @@ Self-taught software engineer with 4+ years of embedded systems development expe
 
 - Fully asynchronous Discord bot with database integration for political transparency
 
-### Graphics & Procedural Generation | 2023-Present
+### Graphics & Procedural Generation | 2025-Present
 
 **Technologies:** C99, OpenGL, GLSL
 
