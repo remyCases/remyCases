@@ -53,6 +53,18 @@ Self-taught software engineer with 4+ years of embedded systems development expe
 
 - Fully asynchronous Discord bot with database integration for political transparency
 
+### OCR & Machine Learning Pipeline | 2025-Present
+
+**Technologies:** Python, scikit-learn, OpenCV, Optuna, Quarto, MyPy
+
+- Developing OCR system for Coptic letter recognition using Support Vector Machine classification
+- Custom ML pipeline framework with comprehensive journalization and experiment tracking
+- Advanced image feature extraction: HOG descriptors, Difference of Gaussian, FFT analysis
+- Automated hyperparameter optimization using Optuna with random search strategies
+- Full type annotation compliance with MyPy for production-ready code quality
+- Automated report generation pipeline using YAML exports and Quarto documentation
+- Database persistence and caching system using NPZ format for efficient data management
+
 ### Graphics & Procedural Generation | 2025-Present
 
 **Technologies:** C99, OpenGL, GLSL
