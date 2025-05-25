@@ -19,6 +19,8 @@ Self-taught software engineer with 4+ years of embedded systems development expe
 
 **Graphics & Low-level:** OpenGL, shader programming, procedural generation, color theory
 
+**Community Leadership:** Published 20+ game modifications, 10,000+ downloads, community management
+
 **Tools & Technologies:** Valgrind, GDB, Ghidra, Git, SQL, LaTeX, Systemd
 
 **Mathematics:** Statistical analysis, mathematical modeling, stochastic processes, game theory
@@ -47,7 +49,7 @@ Self-taught software engineer with 4+ years of embedded systems development expe
 
 ### Parliamentary Monitoring Bot | 2025-Present
 
-**Technologies:** Python, SQLite, asyncio  
+**Technologies:** Python, SQLite, asyncio
 
 - Fully asynchronous Discord bot with database integration for political transparency
 
@@ -66,12 +68,15 @@ Self-taught software engineer with 4+ years of embedded systems development expe
 - Open-source Python package implementing statistical indices for measurement validation
 - Based on peer-reviewed mathematical papers including Lin's Concordance Correlation Coefficient
 
-### Reverse Engineering & Modding | 2023-Present
+### Game Modding & Runtime Code Modification | 2023-Present
 
-**Technologies:** C#, .NET 6.0, Harmony2, IL
+**Technologies:** C#, .NET 6.0, Harmony2, IL manipulation, dnSpy, UndertaleModTool
 
-- ModShardLoader: Open-source code injection tool for GameMaker-based games
-- Author of several mods for Unity-based games using Harmony2 based on IL modification at runtime.
+- Published 20+ game modifications across 5 indie games with 10,000+ community downloads
+- Led modding communities as primary developer, providing ongoing bug fixes and feature updates
+- ModShardLoader: Open-source code injection framework for GameMaker-based games
+- Advanced runtime bytecode modification using Harmony2 transpilers for Unity games
+- Reverse engineering experience with dnSpy (C# decompilation) and Ghidra (binary analysis)
 
 ### Game Theory Research | 2022-2023
 
@@ -84,14 +89,14 @@ Self-taught software engineer with 4+ years of embedded systems development expe
 
 ## EDUCATION
 
-**École Supérieure Nationale Des Mines De Nancy** | 2014-2020  
-General Engineering - Mathematics and Computer Science  
+**École Supérieure Nationale Des Mines De Nancy** | 2014-2020
+General Engineering - Mathematics and Computer Science
 *Focus: Stochastic processes, mathematical modeling, optimal control theory*
 
-**Notable Academic Projects:**  
+**Notable Academic Projects:**
 
-- Optimal control in population dynamics with no-regret algorithms  
-- Control of nonlinear Lure-type systems with switching constraints  
+- Optimal control in population dynamics with no-regret algorithms
+- Control of nonlinear Lure-type systems with switching constraints
 
 ---
 
