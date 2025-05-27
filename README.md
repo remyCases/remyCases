@@ -13,9 +13,7 @@ Self-taught software engineer with 4+ years of embedded systems development expe
 
 ## TECHNICAL SKILLS
 
-**Programming Languages:** C99, Python, Rust, C++, C#, Nim, Lua, x86/ARM64 Assembly
-
-**Embedded Systems:** NRF52 microcontrollers, real-time sensor data processing, IMU systems
+**Programming Languages:** C99, Python, Rust, C#
 
 **Graphics & Low-level:** OpenGL, shader programming, procedural generation, color theory
 
