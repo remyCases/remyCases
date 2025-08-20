@@ -1,19 +1,21 @@
 # Remy CASES
 
-**Software & Embedded Engineer**
-📧 remy.cases@gmail.com | 📱 06.38.61.99.25 | 📍 Nancy, France
+**Software & low-level developper**
+:email: remy.cases@gmail.com | :iphone: 06.38.61.99.25 | :round_pushpin: Nancy, France
 
 ---
 
 ## PROFESSIONAL SUMMARY
 
-Self-taught software engineer with 4+ years of embedded systems development experience and strong mathematical background. Specialized in performance optimization, system debugging, and cross-platform development. Passionate about clean code, statistical analysis, and open-source contributions.
+Self-taught software engineer with 4+ years of low-level development experience and strong mathematical background. Specialized in performance optimization, system debugging, and cross-platform development. Passionate about clean code, statistical analysis, and open-source contributions.
 
 ---
 
 ## TECHNICAL SKILLS
 
 **Programming Languages:** C99, Python, Rust, C#
+
+**Debugging techniques:** Debugging C99 for NRF52 without hardware access
 
 **Graphics & Low-level:** OpenGL, shader programming, procedural generation, color theory
 
@@ -29,11 +31,11 @@ Self-taught software engineer with 4+ years of embedded systems development expe
 
 ## PROFESSIONAL EXPERIENCE
 
-### Embedded Engineer | Zorh-Tech R&D Team | 2020-2024
+### C systems programming Engineer | Zorh-Tech R&D Team | 2020-2024
 
-*Biomechanical sensor data analysis and embedded systems development*
+*Biomechanical sensor data analysis and C systems development*
 
-- **Embedded Development:** Developed C applications for NRF52 microcontrollers processing real-time IMU sensor data from foot-tracking insoles
+- **C Development:** Developed C applications for NRF52 microcontrollers processing real-time IMU sensor data from foot-tracking insoles
 - **System Architecture:** Contributed to architectural redesign addressing technical debt across Matlab→Python→C codebase migration
 - **Performance Optimization:** Identified and resolved performance bottlenecks in sensor data processing pipelines
 - **Quality Assurance:** Implemented comprehensive debugging workflows using Valgrind and established coding standards to prevent undefined behavior
@@ -45,23 +47,17 @@ Self-taught software engineer with 4+ years of embedded systems development expe
 
 ## PROJECTS & OPEN SOURCE CONTRIBUTIONS
 
+### TCP Game Protocol Analyzer | 2025-Present
+
+**Technologies:** Python, SQLite, asyncio, Protobuf
+
+- A Python-based TUI (Text User Interface) tool for analyzing and reverse-engineering TCP-based game protocols. Built with Textual, this tool provides real-time network monitoring, protobuf message decoding, and interactive analysis capabilities.
+
 ### Parliamentary Monitoring Bot | 2025-Present
 
 **Technologies:** Python, SQLite, asyncio
 
 - Fully asynchronous Discord bot with database integration for political transparency
-
-### OCR & Machine Learning Pipeline | 2025-Present
-
-**Technologies:** Python, scikit-learn, OpenCV, Optuna, Quarto, MyPy
-
-- Developing OCR system for Coptic letter recognition using Support Vector Machine classification
-- Custom ML pipeline framework with comprehensive journalization and experiment tracking
-- Advanced image feature extraction: HOG descriptors, Difference of Gaussian, FFT analysis
-- Automated hyperparameter optimization using Optuna with random search strategies
-- Full type annotation compliance with MyPy for production-ready code quality
-- Automated report generation pipeline using YAML exports and Quarto documentation
-- Database persistence and caching system using NPZ format for efficient data management
 
 ### Graphics & Procedural Generation | 2025-Present
 
